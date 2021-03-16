@@ -12,5 +12,7 @@ namespace Business.Constants
         public static string MaintananceTime = "System is in maintanance.";
         public static string CarDeleted = "Car is deleted.";
         public static string CarUpdated = "Car is updated.";
+        public static string RentalAdded = "Rental is added.";
+        public static string RentalNotNull = "This rental is booked.";
     }
 }
